@@ -112,7 +112,7 @@ export function Terminalizer(element, options) {
    */
   self._playerTemplate = '<div class="terminalizer-player">' +
     '<div class="cover"></div>' +
-    '<div class="start">' + self._startTemplate + '</div>' +
+    // '<div class="start">' + self._startTemplate + '</div>' + //commented out by stuart cos it looks dumb
     '<div class="terminalizer"></div>' +
     '<div class="controller">' +
     '<div class="play"><span class="icon"></span></div>' +
