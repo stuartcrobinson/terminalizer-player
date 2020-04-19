@@ -4,11 +4,20 @@ the only changes i made to this repo (since forking) are to index.html and this 
 
 line 115:
 
-`    // '<div class="start">' + self._startTemplate + '</div>' + //commented out by stuart cos it looks dumb`
+```
+// '<div class="start">' + self._startTemplate + '</div>' + //commented out by stuart cos it looks dumb
+```
 
 https://github.com/stuartcrobinson/terminalizer-player/blob/master/src/js/terminalizer.js#L115
 
+line 153, 154:
 
+```
+repeat: true,
+autoplay: true,
+```
+
+https://github.com/stuartcrobinson/terminalizer-player/blob/master/src/js/terminalizer.js#L153
 
 
 # Terminalizer Web Player
