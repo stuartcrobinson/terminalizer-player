@@ -1,6 +1,10 @@
 hi ross -
 
-the only changes i made to this repo (since forking) are to index.html and this one line in `src/js/terminalizer.js` to hide the big svg play icon that otherwise flickers on page load
+the only changes i made to this repo (since forking) are to index.html and these lines in 
+
+`src/js/terminalizer.js` 
+
+to hide the big svg play icon that otherwise flickers on page load
 
 line 115:
 
