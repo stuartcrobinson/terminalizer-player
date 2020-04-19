@@ -1,3 +1,16 @@
+hi ross -
+
+the only changes i made to this repo (since forking) are to index.html and this one line in `src/js/terminalizer.js` to hide the big svg play icon that otherwise flickers on page load
+
+line 115:
+
+`    // '<div class="start">' + self._startTemplate + '</div>' + //commented out by stuart cos it looks dumb`
+
+https://github.com/stuartcrobinson/terminalizer-player/blob/master/src/js/terminalizer.js#L115
+
+
+
+
 # Terminalizer Web Player
 
 [![npm](https://img.shields.io/npm/v/terminalizer-player.svg)](https://www.npmjs.com/package/terminalizer-player)
