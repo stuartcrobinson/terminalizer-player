@@ -150,8 +150,8 @@ export function Terminalizer(element, options) {
     beforeMiddleware: null,
     afterMiddleware: null,
     controls: true,
-    repeat: false,
-    autoplay: false,
+    repeat: true,
+    autoplay: true,
     autofocus: true,
     thumbnailTime: 0
   }, options);
